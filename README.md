@@ -1,2 +1,2 @@
-# sihoutte
+# silhoutte
 sillhoutte library for clustering
